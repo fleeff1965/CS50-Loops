@@ -1,4 +1,3 @@
-i=0
-while i<3:
+for _ in range(3):
     print("Meow")
-    i=i+1
+    #i=i+1
